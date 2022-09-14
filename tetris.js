@@ -1,5 +1,6 @@
 // Tetris Main Source Code //
-// By ImSky //
+// By SkylarZYX //
+// Original Code by pomle //
 
 const canvas = document.getElementById('tetris');
 const context = canvas.getContext('2d');
