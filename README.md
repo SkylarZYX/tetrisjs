@@ -12,3 +12,6 @@ Q and W to Rotate
 Down, Left, Right Arrow keys to navigate
 
 A Game by ImSky (Skylark011)
+
+# other
+yes i know this isn't very original but i learned something the day i watched pomle's video
